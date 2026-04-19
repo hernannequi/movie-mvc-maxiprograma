@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hernan\\Desktop\\movie-mvc-maxiprograma-EJEMPLO\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj": {}
+    "C:\\Users\\Hernan\\Documents\\Git\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hernan\\Desktop\\movie-mvc-maxiprograma-EJEMPLO\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj": {
+    "C:\\Users\\Hernan\\Documents\\Git\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hernan\\Desktop\\movie-mvc-maxiprograma-EJEMPLO\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj",
+        "projectUniqueName": "C:\\Users\\Hernan\\Documents\\Git\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj",
         "projectName": "movie-mvc-maxiprograma",
-        "projectPath": "C:\\Users\\Hernan\\Desktop\\movie-mvc-maxiprograma-EJEMPLO\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj",
+        "projectPath": "C:\\Users\\Hernan\\Documents\\Git\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj",
         "packagesPath": "C:\\Users\\Hernan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hernan\\Desktop\\movie-mvc-maxiprograma-EJEMPLO\\movie-mvc-maxiprograma\\obj\\",
+        "outputPath": "C:\\Users\\Hernan\\Documents\\Git\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
