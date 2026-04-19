@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbItFcUMgAY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hernan\\Desktop\\movie-mvc-maxiprograma-EJEMPLO\\movie-mvc-maxiprograma\\movie-mvc-maxiprograma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hernan\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.305\\microsoft.net.sdk.compilers.toolset.9.0.305.nupkg.sha512"
+  ],
+  "logs": []
+}
