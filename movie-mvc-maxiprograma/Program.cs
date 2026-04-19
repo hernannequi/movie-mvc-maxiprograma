@@ -12,6 +12,24 @@ builder.Services.AddDbContext<MovieDbContext>(options =>
 
 var app = builder.Build();
 
+//Invocar la ejecucion de la clase DbSeeder con un using scop
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    try
+    {
+        var context = services.GetRequiredService<MovieDbContext>();
+        DbSeeder.Seed(context);
+    }
+    catch (Exception ex)
+    {
+        //Log error or handle then as needed
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "An error occurred seeding the DB.");
+    }
+}
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
