@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("movie-mvc-maxiprograma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9dc4d92d7cbb32dc8817559fecf295fb248ac87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd77d04a6f5ea5940c8d1b42f06c9efa6fc46d73")]
 [assembly: System.Reflection.AssemblyProductAttribute("movie-mvc-maxiprograma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("movie-mvc-maxiprograma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
